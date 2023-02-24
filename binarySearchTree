@@ -1,0 +1,24 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] -> Binary Search Tree
+
+         7
+      5      8
+  1       6      9 
+0    3  4 
+   2
+X= root
+Y= right
+Z= left
+
+X=7
+(5) X'in solunda
+(1) 5'in solunda
+(8) X'in sağında
+(3) 1'in sağında
+(6) 8'in solunda
+(0) 1'in solunda
+(9) 8'in sağında
+(4) 6'nın solunda
+(2) 3'ün solunda - 0'ın sağında
+
+
+
